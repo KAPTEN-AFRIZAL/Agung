@@ -14,24 +14,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282135386424'] //ur owner number
+global.vcardowner = ['6283822012468'] //ur owner number
 global.ownername = "AGUNG" //ur owner name
 global.ytname = "YT: youtube.com/@SadBotz" //ur yt chanel name
 global.socialm = "GitHub: github.com/KAPTEN-AFRIZAL" //ur github or insta name
 global.location = "indonesia" //ur location
 
 //bot bomdy 
-global.owner = ['6282135386424'] //ur number
-global.ownernomer = "6282135386424" //ur number
-global.ownertag = '6282135386424' //ur tag number
-global.premium = ['6282135386424'] //ur premium number
+global.owner = ['6283822012468'] //ur number
+global.ownernomer = "6283822012468" //ur number
+global.ownertag = '6283822012468' //ur tag number
+global.premium = ['6283822012468','6282135386424'] //ur premium number
 global.botname = 'GUNZBOT' //ur bot name
 global.ownername = "AGUNG"
 global.linkz = "youtube.com/@SadBotz" //your theme url which will be displayed on whatsapp
 global.websitex = "youtube.com/@SadBotz" //ur website to be displayed
 global.botscript = 'https://github.com/KAPTEN-AFRIZAL' //script link
-global.themeemoji = "🤓" //ur theme emoji
-global.packname = "Jika bersamaku\nadalah luka\nmaka kejarlah dia\nyang kau anggap bahagia\n\n\n� KAPTEN AFRIZAL" //ur sticker watermark packname
+global.themeemoji = "ðŸ¤“" //ur theme emoji
+global.packname = "Jika bersamaku\nadalah luka\nmaka kejarlah dia\nyang kau anggap bahagia\n\n\n© KAPTEN AFRIZAL" //ur sticker watermark packname
 global.author = "Pergilah engkau bersamanya\nanggaplah diriku yang tak pernah ada\naku mohon, jangan lukai hatinya\ncukup aku saja." //ur sticker watermark author
 global.wm = "Bot By Agung" //ur watermark
 
@@ -40,7 +40,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Done✓',
+    success: 'Doneâœ“',
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
