@@ -243,12 +243,6 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
 function pickRandom(list) {
 return list[Math.floor(list.length * Math.random())]
 }
-//auto react all message
-XeonBotInc.sendMessage(m.chat, {
-          react: {
-            text: `${pickRandom(['😨','😅','😂','😳','😎', '🥵', '😱', '🐦', '🙄', '🐤','🗿','🐦','🤨','🥴','😐','👆','😔', '👀','👎'])}`,
-            key: m.key,
-          }})
           
 //chat counter
         if (m.message) {
